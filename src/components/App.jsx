@@ -1,6 +1,6 @@
 import React from "react";
-import Header from "./components/Header";
-import RecipeControl from "./components/RecipeControl";
+import Header from "./Header";
+import RecipeControl from "./RecipeControl";
 
 function App() {
   return (
